@@ -1,13 +1,13 @@
-import MySQLdb
+# import MySQLdb
 
-db = MySQLdb.connect(
-    host="localhost",
-    user="myuser",
-    passwd="mypassword",
-    db="myproject"
-)
+# db = MySQLdb.connect(
+#     host="localhost",
+#     user="myuser",
+#     passwd="mypassword",
+#     db="myproject"
+# )
 
-cursor = db.cursor()
-cursor.execute("SHOW TABLES")
-print("working")
-db.close()
+# cursor = db.cursor()
+# cursor.execute("SHOW TABLES")
+# print("working")
+# db.close()
