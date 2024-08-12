@@ -19,7 +19,7 @@ myenv\Scripts\activate
 ```
 
 3. Update the settings.py
-This proect runs on local computer, so please update the database section in settings.py that matches up to your own database credentials.
+This project runs on local computer, so please update the database section in settings.py to that it matches up to your own database credentials.
 
 This uses MySQL Database.
 
@@ -37,5 +37,7 @@ DATABASES = {
 ```
 
 4. To login and check the admin section of Django
+```
 username: admin
 password: mypassword
+```
