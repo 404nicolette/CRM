@@ -35,4 +35,4 @@ staticfiles/
 .DS_Store
 
 # Exclude the environment directory
-myenv/
+myenv
