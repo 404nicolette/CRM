@@ -1,3 +1,6 @@
+This a Django web application is intended to facilitate the management of employee data in a
+company
+
 # To run this project
 
 1. Clone the repository:
