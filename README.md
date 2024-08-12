@@ -35,8 +35,18 @@ DATABASES = {
     }
 }
 ```
+4. Enter the project directory and run the project:
+```
+cd dcrm
+```
 
-4. To login and check the admin section of Django
+then,
+
+```
+python manage.py runserver
+```
+
+5. To login and check the admin section of Django
 ```
 username: admin
 password: mypassword
